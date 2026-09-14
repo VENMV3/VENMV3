@@ -35,3 +35,8 @@ I am passionate about network automation, infrastructure, and backend developmen
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VENMV3&theme=gruvbox-duo&hide_border=true&short_numbers=true&card_width=500&card_height=203)](https://git.io/streak-stats)
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=VENMV3&theme=ayu&border_radius=6)
+
+
+### 🐍 My Contributions
+
+![Snake animation](https://raw.githubusercontent.com/VENMVE/VENMVE/output/github-snake-dark.svg)
