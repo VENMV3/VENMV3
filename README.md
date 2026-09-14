@@ -1,4 +1,4 @@
-![VENMVE Banner](Black Monochrome Business LinkedIn Banner(1).png)
+![VENMVE Banner](banner.png)
 
 ## Hi, I'm VENMVE 👋
 
